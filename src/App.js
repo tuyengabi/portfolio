@@ -5,6 +5,7 @@ import Skill from './components/Skill.js'
 import Experience from './components/Experience.js'
 import Education from './components/Education.js'
 import Contact from './components/Contact.js'
+import Contentcontact from './components/Contentcontact.js'
 
 class App extends Component {
   render() {
@@ -15,6 +16,7 @@ class App extends Component {
         <Experience></Experience>
         <Education></Education>
         <Contact></Contact>
+        <Contentcontact></Contentcontact>
       </div>
     )
 
