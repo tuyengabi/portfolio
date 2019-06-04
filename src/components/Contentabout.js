@@ -11,8 +11,11 @@ class Contentabout extends Component {
           DÉVELOPPEUSE FRONT-END <br /> 
           DESIGNER
         </h3>
+        <h4>
+          6 ans d’expérience dans le domaine du design!
+        </h4>
         <p>
-        dhgfjgk hkjhkjklj hjkjl hjkhlkj hjkjhk jhkjhl jhgkjhlj jhgkhl jhgkjhl jhgkjhkl jgkhl kjhlh khlhl khlj khljm khljm khlhl khkl jgfhfhn sqhgj hdskj riuyr kjhglk vc jgl rdijl qgds evdco kujvlksb qij hckl cbv.
+          Je m'appelle Tuyen . J'ai le désir de développer personnel et mes apprentisages. Par conséquent , la technologie et le design sont mes preférences. J'aimerais devenir une développeur pour satisfaire mon désir de connaissance.
         </p>
       </div>
     )
