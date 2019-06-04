@@ -5,11 +5,11 @@ import Skill from './components/Skill.js'
 import Experience from './components/Experience.js'
 import Education from './components/Education.js'
 import Contact from './components/Contact.js'
-import Contentabout from './components/Contentabout.js'
-import Contentskill from './components/Contentskill.js'
-import Contentexperience from './components/Contentexpenrience.js'
-import Contenteducation from './components/Contenteducation.js'
-import Contentcontact from './components/Contentcontact.js'
+import ContentAbout from './components/ContentAbout.js'
+import ContentSkill from './components/ContentSkill.js'
+import ContentExperience from './components/ContentExperience.js'
+import ContentEducation from './components/ContentEducation.js'
+import ContentContact from './components/ContentContact.js'
 
 class App extends Component {
   render() {
@@ -20,11 +20,11 @@ class App extends Component {
         <Experience></Experience>
         <Education></Education>
         <Contact></Contact>
-        <Contentabout></Contentabout>
-        <Contentskill></Contentskill>
-        <Contentexperience></Contentexperience>
-        <Contenteducation></Contenteducation>
-        <Contentcontact></Contentcontact>
+        <ContentAbout></ContentAbout>
+        <ContentSkill></ContentSkill>
+        <ContentExperience></ContentExperience>
+        <ContentEducation></ContentEducation>
+        <ContentContact></ContentContact>
       </div>
     )
 

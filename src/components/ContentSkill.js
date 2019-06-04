@@ -1,7 +1,7 @@
  
 import React, { Component } from 'react';
 
-class Contentskill extends Component {
+class ContentSkill extends Component {
   render() {
     return  (
       <div>
@@ -67,4 +67,4 @@ class Contentskill extends Component {
   }
 }
 
-export default Contentskill;
+export default ContentSkill;

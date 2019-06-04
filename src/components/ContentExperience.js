@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Experience extends Component {
+class ContentExperience extends Component {
   render() {
     return  (
       <div>
@@ -43,4 +43,4 @@ class Experience extends Component {
   }
 }
 
-export default Experience;
+export default ContentExperience;
