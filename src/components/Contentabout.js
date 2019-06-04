@@ -8,7 +8,7 @@ class Contentabout extends Component {
           Tuyen Le
         </h1>
         <h3>
-          DÉVELOPPEUSE FRONT-END <br> 
+          DÉVELOPPEUSE FRONT-END <br /> 
           DESIGNER
         </h3>
         <p>

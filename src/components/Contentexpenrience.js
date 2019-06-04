@@ -8,23 +8,23 @@ class Experience extends Component {
         <div>
           <h4>2014 - 08/2018</h4>
           <p>
-            Serveuse de restaurant <br> 
+            Serveuse de restaurant <br /> 
             Prothésiste ongulaire - Paris - France.
           </p>
           <p>
-            Employée Polyvalente Hotel Le Tadorne <br>
+            Employée Polyvalente Hotel Le Tadorne <br />
             Ouvrières d'agricole - Aube - France.
           </p>
         </div>
         <div>
           <h4>2009 - 2013</h4>
           <p>
-            Chef Designer de mode société NMN <br>
+            Chef Designer de mode société NMN <br />
             secteur D'industrie de Textile et Uniform - Hochiminh - Vietnam
           </p>
           <h4>2007 - 2009</h4>
           <p>
-            Designer de mode société TAS <br> 
+            Designer de mode société TAS <br /> 
             secteur Événementiel - Hochiminh - Vietnam
           </p>
         </div>
