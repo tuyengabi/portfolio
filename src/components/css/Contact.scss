@@ -1,0 +1,15 @@
+.contact {
+  display: table;
+  width: 100vw;
+  height: 20vh;  
+  text-align: center;
+  margin: 0;
+  background-image: url("../../photos/con.png");
+  font-family: 'Major Mono Display', monospace;
+}
+
+.contactTitle {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 5rem;
+}

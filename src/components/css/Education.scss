@@ -1,0 +1,15 @@
+.education {
+  display: table;
+  width: 100vw;
+  height: 20vh;  
+  text-align: center;
+  margin: 0;
+  background-image: url("../../photos/edu.png");
+  font-family: 'Major Mono Display', monospace;
+}
+
+.educationTitle  {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 5rem;
+}
