@@ -6,7 +6,7 @@ class Skill extends Component {
     return  (
       <div className="skill">
         <h1 className="skillTitle">
-          Compétences
+          compétences
         </h1>
       </div>
     )

@@ -6,7 +6,7 @@ class Experience extends Component {
     return  (
       <div className="experience">
         <h1 className="experienceTitle">
-          Expériences et Projets
+          expériences et projets
         </h1>
       </div>
     )

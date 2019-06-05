@@ -6,7 +6,7 @@ class Contact extends Component {
     return  (
       <div className="contact" >
         <h1 className="contactTitle">
-          Contact
+          contact
         </h1>
       </div>
     )

@@ -6,7 +6,7 @@ class Education extends Component {
     return  (
       <div className="education">
         <h1 className="educationTitle">
-          Éducations
+          éducations
         </h1>
       </div>
     )
