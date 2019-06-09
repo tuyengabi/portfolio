@@ -15,7 +15,7 @@ class ContentSkill extends Component {
   render() {
     return  (
       <section className="contentSkill">
-        <div className="tool center-middle">
+        <div className="tool">
           <h2 className="toolTitle center-middle">Atouts</h2>
           <figure className="html center-middle">
             <img className="logo" src={ htmlLogo }/>
@@ -48,6 +48,7 @@ class ContentSkill extends Component {
             <img className="logo" src={ cameraLogo } />
           </figure>
         </div>
+
         <div className="quality center-middle">
           <h2 className="qualityTitle center-middle">Compétences</h2>
           <h3 className="qualityList">Travail en équipe:</h3>
