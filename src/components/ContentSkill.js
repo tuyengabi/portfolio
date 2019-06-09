@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './css/ContentSkill.scss';
-import htmlLogo from '../images/HTML5.png';
+import htmlLogo from '../images/HTML.png';
 import cssLogo from '../images/CSS.png';
 import jsLogo from '../images/JS.png';
 import vuejsLogo from '../images/VUEJS.png';
@@ -17,48 +17,48 @@ class ContentSkill extends Component {
       <div className="contentSkill">
         <div className="tool">
           <h2 className="title-tool">Atouts</h2>
-          <li className="html">
+          <figure className="html">
             <img className="logo" src={ htmlLogo }/>
-          </li>
-          <li className="css">
+          </figure>
+          <figure className="css">
             <img className="logo" src={ cssLogo } />
-          </li>
-          <li className="js">
+          </figure>
+          <figure className="js">
             <img className="logo" src={ jsLogo } />
-          </li>
-          <li className="vuejs">
+          </figure>
+          <figure className="vuejs">
             <img className="logo" src={ vuejsLogo } />
-          </li>
-          <li className="reactjs">
+          </figure>
+          <figure className="reactjs">
             <img className="logo" src={ reactjsLogo } />
-          </li>
-          <li className="vim">
+          </figure>
+          <figure className="vim">
             <img className="logo" src={ vimLogo } />
-          </li>
-          <li className="ai">
+          </figure>
+          <figure className="ai">
             <img className="logo" src={ aiLogo } />
-          </li>
-          <li className="ps">
+          </figure>
+          <figure className="ps">
             <img className="logo" src={ psLogo } />
-          </li>
-          <li className="draw">
+          </figure>
+          <figure className="draw">
             <img className="logo" src={ drawLogo } />
-          </li>
-          <li className="camera">
+          </figure>
+          <figure className="camera">
             <img className="logo" src={ cameraLogo } />
-          </li>
+          </figure>
         </div>
-        <div className="quality">
+        <div className="quafigurety">
           <h2 className="">Compétences</h2>
-          <h3 className="qualityTitle">Travail en équipe:</h3>
-          <p className="skillDetail">Facilité à s'intégrer dans une nouvelle équipe.</p>
-          <h3 className="qualityTitle">Autonomie:</h3>
+          <h3 className="quafiguretyTitle">Travail en équipe:</h3>
+          <p className="skillDetail">Facifigureté à s'intégrer dans une nouvelle équipe.</p>
+          <h3 className="quafiguretyTitle">Autonomie:</h3>
           <p className="skillDetail">Prendre en charge son activité sans devoir être encadré de façon continue.</p>
-          <h3 className="qualityTitle">Force de proposition:</h3>
+          <h3 className="quafiguretyTitle">Force de proposition:</h3>
           <p className="skillDetail">Grâce à mon analyse et mon écoute, je suis force de proposition pour innover dans de nouvelles idées.</p>
-          <h3 className="qualityTitle">Prise de recul:</h3>
+          <h3 className="quafiguretyTitle">Prise de recul:</h3>
           <p className="skillDetail">Je peux faire preuve d'objectivité, à prendre de la distance pour analyser les faits, les situations et les interactions avant d'agir ou de prendre une décision.</p>
-          <h3 className="qualityTitle">Vonlonté d'apprendre:</h3>
+          <h3 className="quafiguretyTitle">Vonlonté d'apprendre:</h3>
           <p className="skillDetail">Définir un concept créatif en fonction du support choisi.</p>          
         </div>
       </div>
