@@ -14,7 +14,7 @@ import ContentContact from './components/ContentContact.js'
 class App extends Component {
   render() {
     return (
-      <div>
+      <>
         <About></About>
         <Skill></Skill>
         <Experience></Experience>
@@ -25,7 +25,7 @@ class App extends Component {
         <ContentExperience></ContentExperience>
         <ContentEducation></ContentEducation>
         <ContentContact></ContentContact>
-      </div>
+      </>
     )
 
   }

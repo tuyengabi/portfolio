@@ -4,11 +4,11 @@ import './css/Contact.scss';
 class Contact extends Component {
   render() {
     return  (
-      <div className="contact" >
+      <article className="contact" >
         <h1 className="contactTitle">
           contact
         </h1>
-      </div>
+      </article>
     )
     
   }
