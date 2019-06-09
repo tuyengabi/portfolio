@@ -4,7 +4,7 @@ import './css/ContentAbout.scss';
 class ContentAbout extends Component {
   render() {
     return  (
-      <div className="contentAbout">
+      <section className="contentAbout">
         <h1 className="name">
           Tuyen Le
         </h1>
@@ -18,7 +18,7 @@ class ContentAbout extends Component {
         <p className="aboutme">
           Je m'appelle Tuyen . J'ai le désir de développer personnel et mes apprentisages. Par conséquent , la technologie et le design sont mes preférences. J'aimerais devenir une développeur pour satisfaire mon désir de connaissance.
         </p>
-      </div>
+      </section>
     )
     
   }

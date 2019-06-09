@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class ContentExperience extends Component {
   render() {
     return  (
-      <div>
+      <section>
         <h3>EXPÉRIENCES</h3>
         <div>
           <h4>2014 - 08/2018</h4>
@@ -37,7 +37,7 @@ class ContentExperience extends Component {
           <h4>LoSfizio</h4>
           <a><img /></a>
         </div>
-      </div>
+      </section>
     )
     
   }

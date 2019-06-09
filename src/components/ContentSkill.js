@@ -14,7 +14,7 @@ import cameraLogo from '../images/CAMERA.png';
 class ContentSkill extends Component {
   render() {
     return  (
-      <div className="contentSkill">
+      <section className="contentSkill">
         <div className="tool">
           <h2 className="title-tool">Atouts</h2>
           <figure className="html">
@@ -61,7 +61,7 @@ class ContentSkill extends Component {
           <h3 className="quafiguretyTitle">Vonlonté d'apprendre:</h3>
           <p className="skillDetail">Définir un concept créatif en fonction du support choisi.</p>          
         </div>
-      </div>
+      </section>
     )
 
   }

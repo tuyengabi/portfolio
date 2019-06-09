@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class ContentEducation extends Component {
   render() {
     return  (
-      <div>
+      <section>
         <div>
           <h3>ÉDUCATION</h3>
           <h4>11/2018 - 06/2019</h4>
@@ -32,7 +32,7 @@ class ContentEducation extends Component {
           <p>Théâtre</p>
           <p>Danser</p>
         </div>
-      </div>
+      </section>
     )
     
   }
