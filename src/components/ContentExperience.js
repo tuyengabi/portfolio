@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './css/ContentExperience.scss';
 import converlienceLogo from '../images/logoCONVER.png';
 import losfizioLogo from '../images/logoLOSFIZIO.png';
 import githubLogo from '../images/logoGITHUB.png';
@@ -6,8 +7,9 @@ import githubLogo from '../images/logoGITHUB.png';
 class ContentExperience extends Component {
   render() {
     return  (
-      <section className="ContentExperience">
+      <section className="contentExperience">
         <h3 className="expTitle">EXPÉRIENCES</h3>
+        <h3 className="projectTitle">PROJETS</h3>
         <div className="exp">
           <h4 className="year">2014 - 08/2018</h4>
           <p>
@@ -29,7 +31,6 @@ class ContentExperience extends Component {
             secteur Événementiel - Hochiminh - Vietnam
           </p>
         </div>
-        <h3 className="projectTitle">PROJETS</h3>
         <figure className="project">
           <h4 className="projectName">Converlience</h4>
           <a><img className="projectLogo" src={ converlienceLogo } /></a>
