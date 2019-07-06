@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.25fa7700.chunk.css",
+    "main.css": "/static/css/main.9122706b.chunk.css",
     "main.js": "/static/js/main.68fb0a84.chunk.js",
     "main.js.map": "/static/js/main.68fb0a84.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.560b5b3a.chunk.js": "/static/js/2.560b5b3a.chunk.js",
     "static/js/2.560b5b3a.chunk.js.map": "/static/js/2.560b5b3a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1f2ccf8e17c32438211bedd6126662a2.js": "/precache-manifest.1f2ccf8e17c32438211bedd6126662a2.js",
+    "precache-manifest.a4e5fa1a8c3955ea81926daf980c0a0f.js": "/precache-manifest.a4e5fa1a8c3955ea81926daf980c0a0f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.25fa7700.chunk.css.map": "/static/css/main.25fa7700.chunk.css.map",
+    "static/css/main.9122706b.chunk.css.map": "/static/css/main.9122706b.chunk.css.map",
     "static/media/AI.png": "/static/media/AI.1033ef32.png",
     "static/media/CAMERA.png": "/static/media/CAMERA.927b7bd4.png",
     "static/media/CSS.png": "/static/media/CSS.bc2328de.png",
@@ -20,13 +20,13 @@
     "static/media/PS.png": "/static/media/PS.64c94599.png",
     "static/media/REACT.png": "/static/media/REACT.47ce6e77.png",
     "static/media/VIM.png": "/static/media/VIM.c1f1e472.png",
-    "static/media/ContentAbout.scss": "/static/media/abo.02ccf458.png",
-    "static/media/Contact.scss": "/static/media/con.5fbb33af.png",
-    "static/media/Education.scss": "/static/media/edu.7534187b.png",
-    "static/media/ContentExperience.scss": "/static/media/exp.bd38b56b.png",
+    "static/media/ContentAbout.scss": "/static/media/abo.bb2b29bf.png",
+    "static/media/Contact.scss": "/static/media/con.fa22da03.png",
+    "static/media/Education.scss": "/static/media/edu.b66851c4.png",
+    "static/media/ContentExperience.scss": "/static/media/exp.550e03c9.png",
     "static/media/logoCONVER.png": "/static/media/logoCONVER.010bff7a.png",
     "static/media/logoGITHUB.png": "/static/media/logoGITHUB.bbba202b.png",
     "static/media/logoLOSFIZIO.png": "/static/media/logoLOSFIZIO.d968c5c8.png",
-    "static/media/ContentSkill.scss": "/static/media/ski.e254bd21.png"
+    "static/media/ContentSkill.scss": "/static/media/ski.cdb2f20c.png"
   }
 }
